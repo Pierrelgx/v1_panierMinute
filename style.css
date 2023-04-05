@@ -1,3 +1,9 @@
+.img-banner {
+  max-width: 100rem;
+  justify-content: center;
+  margin: auto;
+}
+
 .list-images {
   width: 70%;
   display: block;
